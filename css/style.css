@@ -1,6 +1,7 @@
 .container{
     text-align:center;
+    font-family: 'Long Cang', cursive;
 }
 body{
-    background:pink;
+    background-color: deeppink;
 }
